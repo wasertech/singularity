@@ -7,5 +7,5 @@ Singularity repositories.
 
 [singularity]
 SigLevel = Never
-Server = https://gitlab.com/waser-technologies/$repo/$arch
+Server = https://wasertech.github.io/$repo/$arch
 ```
