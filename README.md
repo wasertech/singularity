@@ -6,6 +6,6 @@ Singularity repositories.
 #user-repos.conf
 
 [singularity]
-SigLevel = Never
+SigLevel = PackageRequired
 Server = https://wasertech.github.io/$repo/$arch
 ```
