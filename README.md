@@ -2,7 +2,7 @@
 
 Singularity repositories.
 
-Only supports only x86_64 and aArch64 platforms.
+Supports only x86_64 and aArch64 platforms for now.
 
 ```conf
 #user-repos.conf -> /etc/pacman.conf
