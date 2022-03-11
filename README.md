@@ -2,8 +2,10 @@
 
 Singularity repositories.
 
+Only supports only x86_64 and aArch64 platforms.
+
 ```conf
-#user-repos.conf
+#user-repos.conf -> /etc/pacman.conf
 
 [singularity]
 SigLevel = PackageRequired
