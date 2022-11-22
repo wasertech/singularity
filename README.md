@@ -18,7 +18,7 @@ Add the Singularity repository to your pacman configuration.
 
 [singularity]
 SigLevel = PackageRequired
-Server = https://wasertech.github.io/$repo/$arch
+Server = https://github.com/wasertech/$repo/releases/download/$arch
 ```
 Recive my public GPG key.
 
