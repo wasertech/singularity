@@ -6,8 +6,8 @@ Supports only x86_64 and aArch64 platforms for now.
 
 ## Navigation
 
-- [aArch64 packages](https://github.com/wasertech/singularity/releases/download/aarch64)
-- [x86_64 packages](https://github.com/wasertech/singularity/releases/download/x86_64)
+- [aArch64 packages](https://github.com/wasertech/singularity/releases/tag/aarch64)
+- [x86_64 packages](https://github.com/wasertech/singularity/releases/tag/x86_64)
 
 ## Usage
 
@@ -18,7 +18,7 @@ Add the Singularity repository to your pacman configuration.
 
 [singularity]
 SigLevel = PackageRequired
-Server = https://github.com/wasertech/$repo/releases/download/$arch
+Server = https://github.com/wasertech/$repo/releases/tag/$arch
 ```
 Recive my public GPG key.
 
