@@ -6,8 +6,8 @@ Supports only x86_64 and aArch64 platforms for now.
 
 ## Navigation
 
-- [aArch64 packages](aarch64/)
-- [x86_64 packages](x86_64/)
+- [aArch64 packages](https://github.com/wasertech/singularity/releases/download/aarch64)
+- [x86_64 packages](https://github.com/wasertech/singularity/releases/download/x86_64)
 
 ## Usage
 
