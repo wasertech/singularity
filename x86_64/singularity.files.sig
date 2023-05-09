@@ -1,1 +1,0 @@
-singularity.files.tar.gz.sig
